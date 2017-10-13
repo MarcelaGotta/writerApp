@@ -15,6 +15,9 @@
   },
   "dependencies": {
     "element-ui": "^2.0.0-alpha.2",
+    "font-awesome": "^4.7.0",
+    "scss": "^0.2.4",
+    "scss-loader": "0.0.1",
     "vue": "^2.4.2",
     "vue-router": "^2.7.0"
   },
